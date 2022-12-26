@@ -10,4 +10,6 @@ public class Sales {
 
     // more sales for ramadan
 
+    // added more discounts automatically
+
 }
