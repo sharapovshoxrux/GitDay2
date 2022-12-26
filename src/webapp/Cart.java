@@ -8,4 +8,8 @@ public class Cart {
 
     // discounts
 
+    // some features
+
+    //new changes
+
 }
